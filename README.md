@@ -36,9 +36,10 @@ pip install -r requirements.txt
 
 If `requirements.txt` is missing, install the dependencies manually:
 ```sh
-pip install tensorflow numpy pandas matplotlib
-pip install opencv-python
-pip install tqdm
+pip install tensorflow
+pip install numpy
+pip install pandas
+pip install matplotlib
 ```
 
 ---
